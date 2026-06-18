@@ -32,3 +32,4 @@ Usuário → Streamlit (chat) → OpenAI (interpreta pergunta → gera DAX/query
 - Margem de lucro
 - Evolução mensal
 - Análise de custos
+# chat-powerbi
